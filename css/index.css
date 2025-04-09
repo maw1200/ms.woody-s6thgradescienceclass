@@ -1,0 +1,46 @@
+/*STYLE SHEET FOR index.HTML*/
+
+
+body {			
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(100, 162, 237); 
+    font-size: 14px; 
+    background-color: white;
+    
+}
+
+header h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    text-align: center;
+
+}
+
+nav h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+nav h3 a {		
+    color: rgb(33, 104, 236);	
+    text-decoration: none;
+    margin: 15px;
+}
+
+nav h3 a:hover {
+    color: purple;
+}
+
+main {
+    text-align: center;
+}
+
+footer h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+
+}
