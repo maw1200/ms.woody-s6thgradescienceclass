@@ -5,3 +5,10 @@ body {
     color: rgb(33, 104, 236);
     font-size: 20px
 }
+
+header h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: rgb(33, 104, 236);
+    font-weight: 300;
+}
